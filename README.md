@@ -1,2 +1,2 @@
-# ProjetoJavaScript
- Conteúdo para treino
+# Projeto JavaScript
+ Conteúdo para treino.
